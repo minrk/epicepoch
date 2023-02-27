@@ -24,7 +24,7 @@ version = {attr = "epicepoch.__version__"}
 github_url = "https://github.com/minrk/epicepoch/"
 
 [tool.tbump.version]
-current = "1.0.1"
+current = "1.1.0"
 
 # Example of a semver regexp.
 # Make sure this matches current_version before
